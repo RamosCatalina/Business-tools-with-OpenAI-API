@@ -7,6 +7,8 @@ This repository has different tools or projects created with OpenAI Python´s AP
 4. Fine-tuning example
 5. more...
 
-# OpenAI model: gpt-3 models
+# OpenAI model
+gpt-3 models
 
-# Libraries: openai, pandas, os, sqlalchemy , tiktoken,json, requests, bs4
+# Libraries
+openai, pandas, os, sqlalchemy , tiktoken,json, requests, bs4
