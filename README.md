@@ -12,3 +12,6 @@ gpt-3 models
 
 # Libraries
 openai, pandas, os, sqlalchemy , tiktoken,json, requests, bs4
+
+# Keyterms
+prompt engineering, pandas, OpenAI, GPT 3 models, API, python, SQL
