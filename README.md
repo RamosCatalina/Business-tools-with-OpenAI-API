@@ -14,4 +14,4 @@ gpt-3 models
 openai, pandas, os, sqlalchemy , tiktoken,json, requests, bs4
 
 # Key terms
-prompt engineering, pandas, OpenAI, GPT 3 models, API, python, SQL
+prompt engineering, pandas, OpenAI, GPT 3 models, API, python, SQL, sentiment analysis, fine-tuning
