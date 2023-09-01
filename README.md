@@ -4,8 +4,7 @@ This repository has different tools or projects created with OpenAI Python´s AP
 
 1. Sentiment Analysis
 2. Text request to get data from SQL database
-4. Fine-tuning example
-5. more...
+3. more...
 
 # OpenAI model
 gpt-3 models
